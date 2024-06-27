@@ -15,5 +15,8 @@ animal_sounds(animal, sound)
 Print the full sentence
 }
 \description{
-Prints what the animal does \emph{(the sound it makes)} in the console, \code{\link[=paste0]{paste0()}}.It doesn't use \code{\link[basemodels:dummy_classifier]{basemodels::dummy_classifier()}}
+Prints what the animal does \emph{(the sound it makes)} in the console, \code{\link[=paste0]{paste0()}}.It doesn't use \code{\link[mvtnorm:Mvt]{mvtnorm::rmvt()}}
+}
+\examples{
+animal_sounds("dog", "woof")
 }

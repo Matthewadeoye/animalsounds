@@ -2,7 +2,7 @@ Package: animalsounds
 Title: Animal Sounds
 Version: 0.0.0.9000
 Authors@R: 
-    person("Matthew", "Adeoye", , "matthew.adeoye@warwick.ac.uk", role = c("aut"))
+    person("Matthew", "Adeoye", , "matthewadeoye9@gmail.com", role = c("aut", "cre"))
 Description: Prints a note about what an animal does (sounds).
 License: MIT + file LICENSE
 Encoding: UTF-8
