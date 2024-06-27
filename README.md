@@ -8,7 +8,7 @@
 [![R-CMD-check](https://github.com/Matthewadeoye/animalsounds/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Matthewadeoye/animalsounds/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of animalsounds is to …
+The goal of animal sounds is to print a note about what an animal does.
 
 ## Installation
 
@@ -30,6 +30,3 @@ library(animalsounds)
 animal_sounds("dog", "woof")
 #> [1] "The dog goes woof!"
 ```
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub and CRAN.
